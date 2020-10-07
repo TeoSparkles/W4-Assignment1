@@ -5,6 +5,8 @@ public class HelloFromTeo {
     public static void main(String[] args) {
 	// write your code here
         String name = "Teo";
-        System.out.println("Hello, my name is " + name);
+        String team = "Billy and Jose";
+        System.out.println("Hello, "+ team + " my name is " + name + ".");
+
     }
 }
