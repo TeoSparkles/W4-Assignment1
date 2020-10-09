@@ -7,6 +7,7 @@ public class HelloFromTeo {
         String name = "Teo";
         String team = "Billy and Jose";
         System.out.println("Hello, "+ team + " my name is " + name + ".");
+        System.out.println("Hello Teo, this is me, Joe.");
 
     }
 }
